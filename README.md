@@ -488,7 +488,7 @@ alert_file: "alerts.log"
 
 ---
 ## **Architecture Diagramme**
-![My Image](web1.excalidraw (2).png)
+![My Image]([web1.excalidraw (2).png](https://github.com/Krutik-Vanjara/pi2---141-Netscan/blob/main/web1.excalidraw%20(2).png))
 
 ## **Step 7: Run the Script in GNS3**
 1. **Open a terminal in your GNS3 VM**.

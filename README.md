@@ -488,8 +488,10 @@ alert_file: "alerts.log"
 
 ---
 ## **Architecture Diagramme**
-![my image](web1.excalidraw (2).png)
+![my image](web1.excalidraw%20%282%29.png)
 
+
+---
 ## **Step 7: Run the Script in GNS3**
 1. **Open a terminal in your GNS3 VM**.
 2. **Run a Full Scan**:

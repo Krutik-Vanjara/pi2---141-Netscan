@@ -487,6 +487,8 @@ alert_file: "alerts.log"
 - Logs alerts to `alerts.log` and general output to `scanner.log`.
 
 ---
+## **Architecture Diagramme**
+![My Image](web1.excalidraw (2).png)
 
 ## **Step 7: Run the Script in GNS3**
 1. **Open a terminal in your GNS3 VM**.
